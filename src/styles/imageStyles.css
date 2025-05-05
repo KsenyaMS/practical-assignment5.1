@@ -1,0 +1,31 @@
+.RocketV1, .RocketV322,
+.Spaceship1, .Spaceship3,
+.Spaceship4, .Spaceship5, .Spaceship2 {
+    background-attachment: local;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.RocketV1 {
+    background-image: url("../images/RocketV1.png");
+}
+.RocketV322 {
+    background-image: url("../images/RocketV322.jpg");
+}
+.Spaceship1 {
+    background-image: url("../images/Spaceship1.jpg");
+}
+.Spaceship3 {
+    background-image: url("../images/Spaceship3.jpg");
+}
+.Spaceship4 {
+    background-image: url("../images/Spaceship4.jpg");
+}
+.Spaceship5 {
+    background-image: url("../images/Spaceship5.jpg");
+}
+.Spaceship2 {
+    background-image: url("../images/Spaceship2.jpg");
+}
